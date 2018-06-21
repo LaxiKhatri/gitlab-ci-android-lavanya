@@ -9,7 +9,7 @@ MAINTAINER Lavanya <laxi.khatri@gmail.com>
 
 ENV VERSION_SDK_TOOLS "3859397"
 
-ENV ANDROID_HOME "/Users/laxmi/Library/Android/sdk"
+ENV ANDROID_HOME "/sdk"
 ENV PATH "$PATH:${ANDROID_HOME}/tools"
 ENV DEBIAN_FRONTEND noninteractive
 
